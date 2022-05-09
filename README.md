@@ -14,7 +14,7 @@ From the project folder, install the dependencies:
 
     npm i
     
-Next to start the app run:
+### To start the react-app run:
 
   npm start
 
