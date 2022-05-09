@@ -18,7 +18,7 @@ From the project folder, install the dependencies:
 
 From the project folder run:
 
-  npm start
+    npm start
 
 ### Install MongoDB
 
