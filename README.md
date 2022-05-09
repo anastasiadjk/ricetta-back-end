@@ -13,7 +13,7 @@ Make sure you already have nodejs & npm installed in your system.
 
 To run this project, you need to install the latest version of MongoDB Community Edition first.
 
-https://docs.mongodb.com/manual/installation/
+    https://docs.mongodb.com/manual/installation/
 
 Once you install MongoDB, make sure it's running.
     
