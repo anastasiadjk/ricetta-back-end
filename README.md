@@ -1,6 +1,6 @@
 ## Introduction
 
-This project is the backend of Ricetta, an app that allows you to create, store, update and delete your recipes. 
+This project is the backend of Ricetta, an app made by me that allows you to create, store, update and delete your recipes. 
 
 This is the implementation of Ricetta in Node.js.
 
